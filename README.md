@@ -18,6 +18,8 @@ Things to unit test for SEO
 8. MUST have a `<h1>` element that is not empty.
 9. MUST not have any outbound links that 404 in terms of status code response.
 10. MUST pass W3C Validation. (http://validator.w3.org/)
+11. All `<img>` elements MUST have the `alt=".."` attribute set and not empty.
+12. All `<img>` elements MUST have the `title=".."` attribute set and not empty.
 
 (Not-per-page)
 
